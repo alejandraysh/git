@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>es.age</groupId>
 	<artifactId>yosehacerloWebapp</artifactId>
-	<version>${parent.yosehacerloWebapp.version}</version>
+	<version>${yosehacerloWebapp.version}</version>
 	<packaging>war</packaging>
 	<name>yosehacerloWebapp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
