@@ -20,6 +20,7 @@
 	<yosehacerlo-jpa.version>0.0.1-SNAPSHOT</yosehacerlo-jpa.version>
 	<yosehacerloWebapp.version>0.0.1-SNAPSHOT</yosehacerloWebapp.version>
 	<junit.version>4.12</junit.version>
+	<project.build.finalName>yosehacerlo</project.build.finalName> 
    </properties>
 
   <dependencies>
