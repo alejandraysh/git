@@ -53,8 +53,8 @@ public class CountryDaoTest
     public void testCountryDao()
     {	
         assertEquals(countryDao.getAll().size(), 50);
-     Country country = countryDao.getCountryByName("Spain");
-        assertEquals(country.getName(), "Spain");
+     Country country = countryDao.getCountryByName("China");
+        assertEquals(country.getName(), "China");
        
     }
  
